@@ -1,0 +1,82 @@
+
+
+.logo {
+  width: 179px;
+
+}
+.Taking {
+  font-size: 30px;
+  color: #0FFF50
+}
+main{
+  color:white;
+  margin-left: 100px
+}
+
+body{
+  background-color: black;
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.greenbar{
+  position: relative;
+  margin: auto;
+  height: 40px;
+  width: 80%;
+  background-color: #0FFF50;
+  text-align: center;
+}
+.bottoni{
+  margin-bottom: 10px;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+#rettangolo{
+  border-radius: 20px;
+  margin: auto;
+  background-color: rgba(0,0,0,0.4);
+  text-align: center;
+  box-sizing: border-box;
+  height:800px;
+  width: 1200px;
+}
+#testo{
+margin-top: 40px;
+text-align: left;
+margin-left: 10px
+}
+.mezzoCarico{
+  border-radius: 10px;
+  margin-left: 0%;
+  height: 30px;
+  width: 40%;
+  background-color: #f5b453;
+
+}
+.Carico{
+  border-radius: 10px;
+  margin-left: 0%;
+  height: 30px;
+  width: 60%;
+  background-color: #00dd00;
+
+}
+.Scarico{
+  border-radius: 10px;
+  margin-left: 0%;
+  height: 30px;
+  width: 15%;
+  background-color: #be4141;
+}
+strong{
+  font-size: 150%;
+}
+p{
+  font-size: 110%;
+  line-height: 60%;
+}
